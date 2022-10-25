@@ -1,3 +1,2 @@
-# S2
-S2_More_Python_ffmpeg
-Un cop el video original de Big Buck Bunny estigui just aqui al costat dels scrips, el codi hauria de funcionar perfectament
+PER AL QUE EL CODI FUNCIONI EL VIDEO HA DE ESTAR AQUI AMB EL NOM "bbb.mp4"
+UN COP FET AIXO JA EM POTS ELIMINAR

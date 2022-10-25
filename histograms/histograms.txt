@@ -1,0 +1,2 @@
+Els frames dels histogrames haurien de ser creats aqui!
+En el cas que no funcioni potser es problema d'aquest arxiu aixi que millor borrar-lo.
